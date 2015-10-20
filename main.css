@@ -1,0 +1,38 @@
+img
+{
+	width: 15%;
+}
+img.hide
+{
+	display: none;
+
+}
+
+h1, h2
+{
+	text-align: center;
+}
+
+span
+{
+	color: orange;
+}
+
+li input
+{
+	display: none;
+}
+
+li.edit span
+{
+	display: none;
+}
+
+li.edit input
+{
+	display: initial;
+}
+
+
+
+
